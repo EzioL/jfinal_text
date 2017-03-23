@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://guanweiming.com/ezio_test?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password = root
+devMode = true
